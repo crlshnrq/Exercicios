@@ -1,0 +1,2 @@
+# Exercicios
+Exercicios UriOnlineJudge - Python
